@@ -1,2 +1,2 @@
 const a = 5;
-console.lo(a);
+console.log(a);
